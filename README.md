@@ -1,16 +1,13 @@
-### Hi there 👋
+<!-- Title -->
+# 👋 Hello, I'm Filipe Pereira!
 
-<!--
-**FilipeMMPereira/FilipeMMPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a mobile developer passionate about Flutter and Kotlin, with a strong background in Laravel and Vue.js, enabling me to create efficient and robust web and mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Mobile Developer | Flutter | Kotlin
+- 💻 Full Stack Developer | Laravel | Vue.js
+
+## 📈 GitHub Stats
+
+![Filipe Pereira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilipeMMPereira&show_icons=true&theme=dark)
