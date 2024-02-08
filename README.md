@@ -1,4 +1,3 @@
-<!-- Title -->
 # 👋 Hello, I'm Filipe Pereira!
 
 ## 🚀 About Me
